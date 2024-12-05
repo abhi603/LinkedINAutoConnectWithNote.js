@@ -8,7 +8,7 @@ Linkedin = {
     totalRequestsSent: 0,
     // set to false to skip adding note in invites
     addNote: true,
-    note: "Hey {{name}}, I'm looking forward to connecting with you!",
+    note: "Hi, I’m Abhinav Nallanagula, a Java Full Stack Developer with 3 years of experience in Java, Spring, and AWS. I’m seeking opportunities to contribute to impactful solutions in an agile. Let’s connect if you have roles aligning with my skills in Java development, cloud services, and CI/CD pipelines.",
   },
   init: function (data, config) {
     console.info("INFO: script initialized on the page...");
